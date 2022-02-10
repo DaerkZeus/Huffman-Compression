@@ -1,6 +1,6 @@
 # Huffman-Compression
 
-Thsi Huffman Compression model is used for lossless compression for text files. It greatly reduces the amount of memory necessary to represent a file and therefore can be used to compress files for various beneficial reasons. The files are written in C and make use of data structures such as linked list and binary trees.
+This Huffman Compression model is used for lossless compression for text files. It greatly reduces the amount of memory necessary to represent a file and therefore can be used to compress files for various beneficial reasons. The files are written in C and make use of data structures such as linked list and binary trees.
 
 From a file as input, Huffman Compression is used to create 3 files with: 
 - a list of characters and their frequencies
